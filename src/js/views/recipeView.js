@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg'; // Do this for importing any static assets that are not programming files
-import Fractional from 'fracty';
+import fracty from 'fracty';
 import View from './View';
 
 class RecipeView extends View {
