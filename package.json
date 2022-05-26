@@ -17,7 +17,6 @@
     "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.4.1",
-    "parcel-plugin-data-src": "^1.0.1"
+    "@parcel/transformer-sass": "^2.4.1"
   }
 }
